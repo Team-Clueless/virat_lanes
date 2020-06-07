@@ -1,0 +1,6 @@
+<launch>
+
+    <!-- Setup input for mpc controller -->
+    <node pkg="virat_lanes" name="show_camera_feed" type="show_cam.py" output="screen"/>
+
+</launch>
