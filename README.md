@@ -4,6 +4,8 @@ Newest implementaion for lane detection.
 
 ![alt text](https://img.shields.io/badge/status-under%20development-yellow)
 
+Running The Package
+--------------------
 
 ``` bash
     roslaunch virat_gazebo igvc_basic.launch
